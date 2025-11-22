@@ -1,0 +1,5 @@
+{
+  "name": "OmniCode Studio",
+  "description": "A professional AI-powered development suite for code generation, debugging, image-to-code conversion, and full application scaffolding. Features multilingual support (English/Persian) and export capability.",
+  "requestFramePermissions": []
+}
